@@ -1,6 +1,6 @@
 # WiFi-Controlled Hovercraft Browser
 
-WiFi-controlled (from a browser) hovercraft on an ESP8266 (NodeMCU, Wemos D1 mini) or ESP32
+Fork of WiFi-controlled (from a browser) hovercraft on an ESP8266 (NodeMCU, Wemos D1 mini) or ESP32 modified and translated by VidenDjurs.dk, danish high school.
 
 **Video:** [https://www.youtube.com/watch?v=TWfIe7EutRM](https://www.youtube.com/watch?v=TWfIe7EutRM)
 
